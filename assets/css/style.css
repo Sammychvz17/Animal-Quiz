@@ -1,0 +1,38 @@
+body {
+    color: brown;
+    border: beige 5px solid;
+
+}
+
+#home-page {
+    font-size: x-large;
+    text-align: center;
+    padding: 5%;
+    
+}
+
+#home-page img {
+    border-radius: 10%;
+    border: brown 5px solid;
+}
+
+input {
+    
+    border-radius: 10px;
+    padding: 10px 12px;
+}
+
+.btn {
+    background-color: brown;
+    color: white;   
+    size: 55px;
+    padding: 10px 12px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.btn:hover {
+    color: brown;
+    background-color: beige;
+    border: brown 3px solid;
+}
