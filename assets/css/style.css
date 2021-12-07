@@ -11,9 +11,10 @@ body {
     
 }
 
-#home-page img {
+#lion {
     border-radius: 10%;
-    border: brown 5px solid
+    border: brown 5px solid;
+    
 }
 
 input {
